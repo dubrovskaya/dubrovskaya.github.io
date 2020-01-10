@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A data story about world freedom, and how LGBT rights made me discover a country I've never heard of.
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: 
 bigimg: 
 tags: [data, economics]
 ---
